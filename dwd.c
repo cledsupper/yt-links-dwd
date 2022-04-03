@@ -29,7 +29,7 @@ int main(int argc, char * argv[]) {
 
         char cmd[135];
         snprintf(cmd, 135, "youtube-dl -x --audio-format mp3 %s", link);
-        puts(cmd);
+        system(cmd);
     }
     fclose(flist);
 
