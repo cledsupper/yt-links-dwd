@@ -16,10 +16,10 @@ U. Algum compilador C (gcc, clang, o que você quiser) e conhecimento de como co
 
 COMO USAR
 ---------
-1. Abra no terminal o diretório onde salvar os arquivos.
-2. Copie o executável deste programa e mova o seu "arquivo.txt", p.ex., para algum diretório.
-3. Acesse o diretório no terminal e execute: ./dwd arquivo.txt
-4. Pronto, se você não errou nada, tudo terá sido baixado no diretório atual.
+1. Crie o diretório onde vai salvar os arquivos.
+2. Copie o executável deste programa e mova o seu "arquivo.txt", p.ex., para esse diretório.
+3. Acesse o diretório no terminal (use o menu de contexto do seu gerenciador de arquivos) e execute: ./dwd arquivo.txt
+4. Pronto, se você não errou nada, tudo terá sido baixado nesse diretório.
 
 
 PROBLEMAS?
